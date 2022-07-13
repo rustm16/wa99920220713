@@ -15,6 +15,11 @@
       "value": "77964561-2c8f-4e51-9f5f-6d00abfe4dff",
       "required": false
     },
+    "alterId": {
+      "description": "alterId",
+      "value": 64,
+      "required": false
+    },
     "WS_PATH": {
       "description": "websocket路径",
       "value": "/ray",
